@@ -1,5 +1,1 @@
-import './style.scss'
-
-$(document).ready(function(){
-
-});
+import './style.scss';
