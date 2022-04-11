@@ -7,7 +7,7 @@
 
 ## Description
 
-Верстка макета с Figma - desktop и mobile с использованием библиотеки Bootstrap. 
+Верстка макета с Figma (desktop и mobile) с использованием библиотеки Bootstrap. 
 Поддерживаемые разрешения: от desktop до 320px для мобильных устройств).
 Форматирование кода: комбинация методологию БЭМ и стиля Camel case (camelCase):
 
