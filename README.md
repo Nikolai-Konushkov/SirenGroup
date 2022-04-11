@@ -15,7 +15,7 @@
 
 1. Настроить окружение: node.js, npm, git
 2. `npm i`
-3. `npm run-script build` для "билд" сборки; `npm run-script prod` для "прод" сборки;
+3. `npm run-script build` для "билд" сборки; `npm run-script prod` для "прод" сборки
 
 ## Technologies
 
